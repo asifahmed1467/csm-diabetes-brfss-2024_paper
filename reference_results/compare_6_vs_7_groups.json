@@ -1,0 +1,24 @@
+{
+ "six_group_final": 24,
+ "seven_group_final": 30,
+ "kept": 20,
+ "new": [
+  "Age: 75-79",
+  "Age: 80+",
+  "Education: College graduate",
+  "General health: Good AND BMI: Obese",
+  "General health: Good AND Education: College graduate",
+  "Poor mental health days: 1-5 days",
+  "Poor mental health days: 14-30 days AND General health: Good",
+  "Poor mental health days: 6-13 days",
+  "Smoking: Current, daily",
+  "Smoking: Never smoked AND Education: College graduate"
+ ],
+ "dropped": [
+  "Poor mental health days: 0 days AND Education: College graduate",
+  "Poor mental health days: 0 days AND General health: Very good",
+  "Poor mental health days: 0 days AND Smoking: Never smoked",
+  "Smoking: Never smoked AND BMI: Obese"
+ ],
+ "jaccard": 0.5882352941176471
+}

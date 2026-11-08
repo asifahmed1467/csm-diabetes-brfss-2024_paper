@@ -1,0 +1,14 @@
+{
+ "kish_deff": 5.7995535165137335,
+ "n_eff_all": 8254.600955691798,
+ "n_eff_by_group": {
+  "diabetes_only": 2013,
+  "diabetes_cvd": 406,
+  "diabetes_ckd": 103,
+  "diabetes_arthritis": 1575,
+  "diabetes_depression": 615,
+  "diabetes_copd": 79,
+  "diabetes_multi_2plus": 3935
+ },
+ "singleton_strata": 216
+}

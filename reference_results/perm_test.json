@@ -1,0 +1,10 @@
+{
+ "real_both": 78,
+ "B": 100,
+ "shuffles_with_any_pattern": 5,
+ "max_both": 3,
+ "mean_both": 0.07,
+ "max_holm_pass": 64,
+ "mean_holm_pass": 43.52,
+ "mean_gap_pass": 9.1
+}

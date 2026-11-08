@@ -1,0 +1,17 @@
+label,delta,max_group,delta_corr,max_group_corr,significant
+Poor mental health days: 1-5 days,0.1182306461144916,diabetes_other_single,0.11903635042470598,diabetes_other_single,True
+Poor mental health days: 14-30 days,0.22292626728110598,diabetes_other_single,0.22410263582844864,diabetes_other_single,True
+Poor mental health days: 0 days,0.42848358240771717,diabetes_cvd,0.4305658570951589,diabetes_cvd,True
+General health: Very good,0.18109480399997036,diabetes_only,0.18113068860641676,diabetes_only,True
+General health: Good,0.1301483264966411,diabetes_arthritis,0.12759905899381663,diabetes_arthritis,True
+General health: Fair,0.18099399331857347,diabetes_multi_2plus,0.17916087581578863,diabetes_multi_2plus,True
+General health: Poor,0.17204070129062354,diabetes_multi_2plus,0.17161047393675077,diabetes_multi_2plus,True
+Physical activity: Any leisure activity,0.18091195640906033,diabetes_only,0.18179084518990252,diabetes_only,True
+Physical activity: No leisure activity,0.18091195640906027,diabetes_multi_2plus,0.1817908451899024,diabetes_multi_2plus,True
+Age: 80+,0.12320126585130406,diabetes_cvd,0.12301651213179943,diabetes_cvd,True
+Smoking: Former smoker,0.13636073902945306,diabetes_multi_2plus,0.13940117517853906,diabetes_multi_2plus,True
+Smoking: Never smoked,0.20548864410481965,diabetes_only,0.21313863831516516,diabetes_only,True
+Income: $100k-200k,0.10489042102613086,diabetes_only,0.10602780145018977,diabetes_only,True
+BMI: Overweight,0.11044223340259929,diabetes_cvd,0.10947228332506859,diabetes_cvd,True
+BMI: Obese,0.15715386228494477,diabetes_other_single,0.15307016490469139,diabetes_other_single,True
+Education: College graduate,0.11183837494724214,diabetes_only,0.11079163747112392,diabetes_only,True

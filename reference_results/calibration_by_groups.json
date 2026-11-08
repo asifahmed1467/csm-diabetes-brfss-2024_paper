@@ -1,0 +1,20 @@
+{
+ "all_7_groups": {
+  "groups": 7,
+  "shuffles": 3,
+  "patterns": 814,
+  "rate_p_lt_005": 0.24897624897624898
+ },
+ "5_groups_drop_CKD_COPD": {
+  "groups": 5,
+  "shuffles": 4,
+  "patterns": 813,
+  "rate_p_lt_005": 0.12515375153751537
+ },
+ "3_largest_groups": {
+  "groups": 3,
+  "shuffles": 4,
+  "patterns": 805,
+  "rate_p_lt_005": 0.07701863354037267
+ }
+}

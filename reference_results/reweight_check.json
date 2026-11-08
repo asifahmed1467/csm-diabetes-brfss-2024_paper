@@ -1,0 +1,9 @@
+{
+ "max_abs_change_in_delta": 0.008971423043081544,
+ "n_still_ge_010": 28,
+ "same_top_group": 30,
+ "same_bottom_group": 30,
+ "weight_ratio_min": 1.0,
+ "weight_ratio_max": 2.75,
+ "n_patterns": 30
+}

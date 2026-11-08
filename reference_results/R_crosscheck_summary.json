@@ -1,0 +1,12 @@
+{
+ "n_patterns": 80,
+ "python_null_rate_p_lt_005": 0.2375,
+ "R_null_rate_RS1": 0.1875,
+ "R_null_rate_F": 0.1875,
+ "R_full_file_null_rate_RS1": 0.25,
+ "R_full_file_null_rate_F": 0.25,
+ "n_patterns_full_file": 40,
+ "final30_python_p_lt_1e4": 30,
+ "final30_R_RS1_p_lt_1e4": 30,
+ "final30_R_F_p_lt_005_over_814": 28
+}

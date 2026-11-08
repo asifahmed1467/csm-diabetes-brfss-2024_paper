@@ -1,0 +1,22 @@
+{
+ "1": {
+  "patterns": 30,
+  "pairs": 12,
+  "singles": 18
+ },
+ "2": {
+  "patterns": 27,
+  "pairs": 9,
+  "singles": 18
+ },
+ "3": {
+  "patterns": 21,
+  "pairs": 3,
+  "singles": 18
+ },
+ "5.8": {
+  "patterns": 20,
+  "pairs": 2,
+  "singles": 18
+ }
+}

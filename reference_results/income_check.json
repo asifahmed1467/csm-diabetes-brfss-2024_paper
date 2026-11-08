@@ -1,0 +1,11 @@
+{
+ "n_records": 55781,
+ "n_income_not_given": 7908,
+ "final_patterns": 24,
+ "main_patterns_kept": 20,
+ "main_patterns_dropped": 10,
+ "new_patterns": 4,
+ "least_stable5_dropped": 4,
+ "poor_health_2plus_rr": 3.22,
+ "daily_smoking_copd_rr": 2.36
+}

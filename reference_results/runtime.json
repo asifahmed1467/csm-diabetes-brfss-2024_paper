@@ -1,0 +1,6 @@
+{
+ "candidate_build_s": 0.4,
+ "design_tests_814_s": 10.1,
+ "bootstrap_200_total_s": 2024.9,
+ "bootstrap_per_sample_s": 10.1
+}

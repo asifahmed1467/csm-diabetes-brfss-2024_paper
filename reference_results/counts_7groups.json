@@ -1,0 +1,18 @@
+{
+ "raw_records_2024": 457670,
+ "adults_with_diabetes": 65809,
+ "group_sizes_all_diabetes": {
+  "diabetes_multi_2plus": 26333,
+  "diabetes_only": 17147,
+  "diabetes_arthritis": 12942,
+  "diabetes_cvd": 3561,
+  "diabetes_depression": 3537,
+  "diabetes_ckd": 1347,
+  "diabetes_copd": 942
+ },
+ "weighted_holm_pass": 503,
+ "weighted_delta_pass": 92,
+ "weighted_delta_pass_fail_holm": 14,
+ "unweighted_holm_pass": 614,
+ "unweighted_delta_pass": 79
+}

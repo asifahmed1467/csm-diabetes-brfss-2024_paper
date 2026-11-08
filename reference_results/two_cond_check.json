@@ -1,0 +1,11 @@
+{
+ "n_patterns": 9,
+ "n_two": 11416,
+ "n_three_plus": 8026,
+ "two_same_sign": 9,
+ "two_ci_excludes_0": 9,
+ "two_both": 9,
+ "three_same_sign": 9,
+ "min_ratio_two_over_all": 0.48587284799889974,
+ "max_ratio_two_over_all": 0.8361310836157091
+}

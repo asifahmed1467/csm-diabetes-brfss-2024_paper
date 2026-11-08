@@ -1,0 +1,31 @@
+pattern,rediscovery_rate,same_max_group_rate
+Poor mental health days: 0 days,1.0,0.5
+Smoking: Never smoked,1.0,1.0
+Poor mental health days: 0 days AND Physical activity: Any leisure activity,1.0,0.0
+Poor mental health days: 14-30 days,1.0,1.0
+Poor mental health days: 0 days AND General health: Good,1.0,0.5
+Smoking: Former smoker,1.0,1.0
+Education: College graduate,1.0,0.0
+"Smoking: Current, daily",1.0,1.0
+General health: Poor,1.0,1.0
+Poor mental health days: 0 days AND Income: $50k-100k,1.0,1.0
+Poor mental health days: 0 days AND Physical activity: No leisure activity,1.0,0.0
+BMI: Obese,1.0,1.0
+Smoking: Never smoked AND Education: College graduate,1.0,0.5
+Physical activity: Any leisure activity,1.0,1.0
+General health: Very good,1.0,1.0
+Poor mental health days: 1-5 days,1.0,1.0
+General health: Fair,1.0,1.0
+Physical activity: Any leisure activity AND Education: College graduate,1.0,0.5
+General health: Good,1.0,0.5
+Poor mental health days: 0 days AND General health: Fair,1.0,0.5
+Income: $100k-200k,0.5,0.5
+Age: 70-74,1.0,1.0
+General health: Good AND Physical activity: Any leisure activity,1.0,0.5
+General health: Good AND Education: College graduate,1.0,0.5
+Age: 75-79,0.5,0.0
+Poor mental health days: 14-30 days AND General health: Poor,0.5,0.5
+Poor mental health days: 14-30 days AND General health: Good,0.5,0.5
+Poor mental health days: 6-13 days,0.5,0.5
+Age: 80+,0.5,0.0
+General health: Good AND BMI: Obese,1.0,1.0

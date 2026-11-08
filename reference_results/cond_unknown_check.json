@@ -1,0 +1,19 @@
+{
+ "n_diabetes": 65809,
+ "n_unknown_condition": 3355,
+ "pct_unknown": 5.1,
+ "n_records_analysis": 45981,
+ "final_patterns": 32,
+ "main_patterns_kept": 28,
+ "main_patterns_dropped": 2,
+ "new_patterns": 4,
+ "group_sizes": {
+  "diabetes_multi_2plus": 18472,
+  "diabetes_only": 11980,
+  "diabetes_arthritis": 8960,
+  "diabetes_depression": 2592,
+  "diabetes_cvd": 2403,
+  "diabetes_ckd": 933,
+  "diabetes_copd": 641
+ }
+}

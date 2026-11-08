@@ -1,0 +1,12 @@
+{
+ "B": 100,
+ "real_candidates": 814,
+ "frac_p_lt_05": 0.23653562653562654,
+ "frac_p_lt_001": 0.08751842751842753,
+ "crit95": 131.10062904115267,
+ "final30_above_crit": 15,
+ "single_pass": 10,
+ "n_single": 18,
+ "pairs_pass": 5,
+ "n_pairs": 12
+}

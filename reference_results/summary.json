@@ -1,0 +1,40 @@
+{
+  "n_analysis": 47873,
+  "n_psu": 47873,
+  "n_strata": 2034,
+  "n_dropped": 17936,
+  "n_kept": 47873,
+  "n_candidates_generated": 892,
+  "n_candidates_after_min_count": {
+    "1-item": 45,
+    "2-item": 769
+  },
+  "n_significant_unweighted": 79,
+  "n_significant_weighted": 78,
+  "n_holm_only_unweighted": 614,
+  "n_final_unweighted": 31,
+  "n_final_weighted": 30,
+  "n_final_pairs_weighted": 12,
+  "pruning_reasons_weighted": {
+    "R2 not surprising given parents": 47,
+    "": 30,
+    "R1 complement of a kept item": 1
+  },
+  "final_overlap_jaccard": 0.7428571428571429,
+  "same_max_group_weighted_vs_unweighted": 25,
+  "ovr_group_equals_max_group": 8,
+  "ovr_group_equals_min_group": 20,
+  "multinomial_mcfadden_r2": 0.12557718381783678,
+  "wracc_top10_pairs": 47,
+  "wracc_top_overlap_with_final": 31,
+  "n_final_without_outcome_attrs": 13,
+  "age_under65_n": 21058,
+  "age_under65_significant_before_pruning": 74,
+  "age_under65_final_after_pruning": 25,
+  "age_65plus_n": 26815,
+  "age_65plus_significant_before_pruning": 56,
+  "age_65plus_final_after_pruning": 19,
+  "n_final_single_condition_groups": 11,
+  "pairs_generated": 847,
+  "pairs_after_min_count": 769
+}

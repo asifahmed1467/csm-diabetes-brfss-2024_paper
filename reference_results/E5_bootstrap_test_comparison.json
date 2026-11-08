@@ -1,0 +1,11 @@
+{
+ "rs": 2017,
+ "pe": 2213,
+ "pe_not_rs": 215,
+ "rs_not_pe": 19,
+ "final_flips": 2,
+ "delta_pass": 2285,
+ "holm_rs": 12655,
+ "holm_pe": 14654,
+ "B": 20
+}
